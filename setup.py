@@ -24,8 +24,8 @@ setup(
     author='Janne Vanhala',
     author_email='janne.vanhala@gmail.com',
     description='A/B testing for your Flask application',
-    long_description=open('README.rst').read() + '\n\n' +
-                     open('CHANGES.rst').read(),
+#    long_description=open('README.rst').read() + '\n\n' +
+#                     open('CHANGES.rst').read(),
     packages=['flask_split'],
     include_package_data=True,
     zip_safe=False,
